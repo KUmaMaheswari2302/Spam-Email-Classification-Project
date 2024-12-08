@@ -21,8 +21,15 @@
 <p>Train a MultinomialNB model using the email text data and save the trained model (spam.pkl) and vectorizer (vec.pkl) using pickle.</p>
 <h3>Run the Streamlit App:</h3>
 <p>Open a terminal and navigate to the project directory containing the spamDetector.py file.</p>
-<h3>>Execute the command:</h3>
+<h3>Execute the command:</h3>
 <p>streamlit run spamDetector.py
 This will launch the web application in your default browser.</p>
-<h3>>Classify Emails:</h3>
+<h3>Classify Emails:</h3>
 <p>Enter email content in the text box provided on the application and click "Classify." The app will display whether the email is "Spam" or "Not Spam."</p>
+<h1>Feature</h1>
+<p>User-Friendly Interface</p>
+<p>Real-Time Classification</p>
+<p>Machine Learning-Powered</p>
+<p>Efficient Text Processing</p>
+<p>Customizable Model</p>
+<p>Scalable Design</p>
